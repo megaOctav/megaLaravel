@@ -33,7 +33,11 @@
                 <h1 class="text-5xl font-bold text-white mb-5">SELAMAT DATANG DI HARVARD!!!</h1>
                 <h3 class="text-2xl font-bold text-white-700 text-red-700 mb-5">Sekilas tentang Harvard</h3>
                 <p class="text-black-600 text-white text-justify mb-10">
-                    Harvard adalah sebuah universitas ternama yang terletak di Cambridge, Massachusetts, Amerika Serikat. Didirikan pada tahun 1636, Harvard merupakan salah satu institusi pendidikan tertua di dunia. Universitas ini dikenal secara luas sebagai pusat keunggulan akademis dan telah memainkan peran penting dalam perkembangan intelektual, ilmiah, dan budaya. Dengan reputasi global yang kuat, Harvard menawarkan berbagai program studi dan memiliki fakultas terkemuka di berbagai bidang. Universitas Harvard juga terkenal karena alumninya yang termasuk banyak tokoh terkemuka di berbagai bidang, termasuk politik, bisnis, dan ilmu pengetahuan.
+                    Harvard adalah sebuah universitas ternama yang terletak di Cambridge, Massachusetts, Amerika Serikat. 
+                    Didirikan pada tahun 1636, Harvard merupakan salah satu institusi pendidikan tertua di dunia. Universitas ini dikenal secara luas 
+                    sebagai pusat keunggulan akademis dan telah memainkan peran penting dalam perkembangan intelektual, ilmiah, dan budaya. Dengan reputasi 
+                    global yang kuat, Harvard menawarkan berbagai program studi dan memiliki fakultas terkemuka di berbagai bidang. 
+                    Universitas Harvard juga terkenal karena alumninya yang termasuk banyak tokoh terkemuka di berbagai bidang, termasuk politik, bisnis, dan ilmu pengetahuan.
                 </p>
                 <div class="btn-box space-x-4 mb-10">
                     <a href="sejarah.html" class="bg-red-600 text-white py-2 px-4 rounded hover:bg-red-700">SEJARAH</a>
