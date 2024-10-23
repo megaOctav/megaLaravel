@@ -10,9 +10,8 @@ Route::get('/index', function () {
     return view('index'); //merujuk ke file index.blade.ph di folder resource view
 });
 
-
 Route::get('/about', function () {
-    return view('Mega Octaviana'); //merujuk ke file about.blade.ph di folder resource view
+    return view('about'); //merujuk ke file about.blade.ph di folder resource view
 });
 
 Route::get('/login', function () {
