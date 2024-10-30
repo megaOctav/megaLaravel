@@ -17,7 +17,7 @@
 
             <nav class="space-x-6 mr-20">
                 <a href="index.html" class="text-white text-lg hover:text-red-600">Beranda</a>
-                <a href="fakultas.html" class="text-white text-lg hover:text-red-600">Fakultas</a>
+                <a href="{{ route('about') }}" class="text-white text-lg hover:text-red-600">Fakultas</a>
                 <a href="fasilitas.html" class="text-white text-lg hover:text-red-600">Fasilitas</a>
                 <a href="kontak.html" class="text-white text-lg hover:text-red-600">Kontak</a>
             </nav>
