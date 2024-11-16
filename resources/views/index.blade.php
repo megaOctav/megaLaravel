@@ -23,6 +23,7 @@
             </nav>
         </div>
     </header>
+    
 
     <!-- Section Beranda -->
     <section class="bg-red-950 py-16">
@@ -60,6 +61,73 @@
             </div>
         </div>
     </section>
+
+    <!-- blog section -->
+
+      <section class="blog_section py-12">
+        <div class="container mx-auto px-4">
+          <div class="heading_container text-center mb-8">
+            <h2 class="text-4xl text-white font-semibold">Blog</h2>
+        </div>
+
+      <div class="flex flex-wrap -mx-4">
+      <div class="w-full md:w-1/3 px-4 mb-8">
+        <div class="box bg-white rounded-lg shadow-lg overflow-hidden">
+          <div class="img-box">
+            <img src="asset\pict\arts.jpg" alt="" class="w-full h-48 object-cover">
+          </div>
+          <div class="detail-box p-4">
+            <h5 class="text-lg font-semibold mb-2">
+            Arts and Sciences
+            </h5>
+            <p class="text-gray-600 text-sm">
+              There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised.
+            </p>
+          </div>
+        </div>
+        </div>
+
+        <div class="w-full md:w-1/3 px-4 mb-8">
+        <div class="box bg-white rounded-lg shadow-lg overflow-hidden">
+          <div class="img-box">
+            <img src="asset\pict\business.jpeg" alt="" class="w-full h-48 object-cover">
+          </div>
+          <div class="detail-box p-4">
+            <h5 class="text-lg font-semibold mb-2">
+            Harvard Business School
+            </h5>
+            <p class="text-gray-600 text-sm">
+              There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised.
+            </p>
+          </div>
+        </div>
+        </div>
+      
+
+        <div class="w-full md:w-1/3 px-4 mb-8">
+          <div class="box bg-white rounded-lg shadow-lg overflow-hidden">
+         <div class="img-box">
+            <img src="asset\pict\education.jpg" alt="" class="w-full h-48 object-cover">
+          </div>
+          <div class="detail-box p-4">
+            <h5 class="text-lg font-semibold mb-2">
+            Harvard Graduate School of Education
+            </h5>
+            <p class="text-gray-600 text-sm">
+              There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised.
+            </p>
+          </div>
+        </div>
+        </div>
+
+      
+    </div>
+  </div>
+</section>
+
+<!-- end blog section -->
+
+
 
 </body>
 </html>
