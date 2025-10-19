@@ -8,7 +8,7 @@ use App\Http\Controllers\HomeController;
 // });
 
 Route::get('/welcome', function () {
-    return view('welcome'); //merujuk ke file index.blade.ph di folder resource view
+    return view('welcome');
 });
 
 // Route::get('/about', function () {
